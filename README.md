@@ -8,10 +8,7 @@
 - 🌱 Learning in public and eager to collaborate with the developer community
 - 🔗 Always open to contributing to open-source projects and sharing my journey
 
-
-
-
-
+<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khwaabmirza_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-kumar-singh-om2) 
