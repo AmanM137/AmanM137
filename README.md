@@ -2,7 +2,7 @@
 ## Hi 👋, I'm Aman Kumar Singh 
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🚀 Aspiring **web developer** with a passion for creating user-friendly web applications
+- 🚀 Aspiring **Web Developer** with a passion for creating user-friendly web applications
 - 🎓 Final-year **B.Tech** student in **Information Technology** at KIIT University
 - 💡 Continuously exploring new technologies and improving my skills
 - 🌱 Learning in public and eager to collaborate with the developer community
